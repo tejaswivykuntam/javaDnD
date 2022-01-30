@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Comparison {
 
     public static void main(String args[]) {
-        // TODO code application logic here
         Scanner input = new Scanner(System.in);
         
         System.out.println("Enter 1st number");

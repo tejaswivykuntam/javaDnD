@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class sr23 {
 
     public static void main(String args[]) {
-        // TODO code application logic here
         int c = 0;
         int thisIsAVariable = 0; // part a
         int q76354 = 0;

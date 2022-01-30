@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class sr26 {
 
     public static void main(String args[]) {
-        // TODO code application logic here
         int t1, t2, t3;
         Scanner input = new Scanner(System.in);
         
