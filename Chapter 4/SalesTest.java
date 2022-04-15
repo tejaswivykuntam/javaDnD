@@ -22,6 +22,7 @@ public class SalesTest {
             }
             
         }
+        in.close();
         
         salesperson.commission(sales, res, id);
     }
